@@ -1,4 +1,3 @@
-This is a small data from A real Data_set
 User_ID,Site_URL,Coupon_Type,Purchase_Amount,Purchase_Date,Coupon_Redemption
 1,kapiva.in,SAVE20,1000,2024-01-05,1
 2,beardo.in,BEARDO15,800,2024-01-10,1
@@ -100,4 +99,5 @@ User_ID,Site_URL,Coupon_Type,Purchase_Amount,Purchase_Date,Coupon_Redemption
 98,beardo.in,BEARDO15,800,2026-09-05,1
 99,kapiva.in,HEALTH10,750,2026-09-10,0
 100,kapiva.in,SAVE20,800,2026-10-02,1
+# This is a small data from A real Data_set.
 
